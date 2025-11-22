@@ -1,5 +1,5 @@
 
- Steps for AWS EC2 Setup
+☁️ Steps for AWS EC2 Setup
 Create EC2 Instance
 
 Chose Ubuntu 22.04 (free tier t2.micro).
